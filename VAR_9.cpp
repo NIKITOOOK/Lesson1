@@ -11,10 +11,11 @@ bool isPrime(int n) {
 }
 
 int main() {
+    system("chcp 1251");
     setlocale(0, "");
 	int n;
     int c = 0;
-    printf("Последовательность:");
+    printf("(0 РїСЂРµСЂРІР°С‚СЊ) РџРѕСЃР»РµРґРѕРІР°С‚РµР»СЊРЅРѕСЃС‚СЊ:");
     while (true) {
         scanf_s("%d", &n);
         if (n == 0) break;
@@ -23,7 +24,7 @@ int main() {
             c++;
         }
     }
-    printf("Кол-во простых чисел: %d\n", c);
+    printf("РљРѕР»-РІРѕ РїСЂРѕСЃС‚С‹С… С‡РёСЃРµР»: %d\n", c);
     return 0;
 
 }
