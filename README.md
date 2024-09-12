@@ -4,5 +4,5 @@
 * Variant 9
 ***
 Laboratory work and files:
-1. Laboratoty work Reapeating <span style="color:red">C++</span>.
+1. Laboratoty work Reapeating <code style="color:magenta">C++</code>.
     * VAR_9.cpp
