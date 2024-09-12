@@ -1,5 +1,5 @@
 # Object-oriented programming
-----
+
 ## by Maleichenko Nikita
 * Variant 9
 ***
