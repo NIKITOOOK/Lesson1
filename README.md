@@ -5,4 +5,4 @@
 ***
 Laboratory work and files:
 1. Laboratoty work Reapeating `C++`
-    * VAR_9.cpp
+    * [1st_work.cpp](https://github.com/NIKITOOOK/Lesson_Variant_9/blob/main/1st_work.cpp)
